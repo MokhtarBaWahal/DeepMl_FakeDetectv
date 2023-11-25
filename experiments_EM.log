@@ -1,0 +1,907 @@
+2023-11-08 01:39:55,062 - INFO - Loading data...
+2023-11-08 01:39:55,149 - INFO - Loading data from dataset/LJSpeech-1.1/wavs...!
+2023-11-08 01:39:55,149 - INFO - Training /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_multi_band_melgan
+2023-11-08 01:39:55,238 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_multi_band_melgan...!
+2023-11-08 01:39:57,329 - INFO - Training rawnet model on 20960 audio files.
+2023-11-08 01:47:58,947 - INFO - [0000]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 01:56:04,482 - INFO - [0001]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 02:04:06,022 - INFO - [0002]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 02:12:06,259 - INFO - [0003]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 02:20:04,248 - INFO - [0004]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 02:28:05,007 - INFO - [0005]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 02:36:05,539 - INFO - [0006]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 02:44:08,682 - INFO - [0007]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 02:52:07,520 - INFO - [0008]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 03:00:11,990 - INFO - [0009]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 03:08:13,450 - INFO - [0010]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 03:16:11,101 - INFO - [0011]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 03:24:10,152 - INFO - [0012]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 03:32:13,247 - INFO - [0013]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 03:40:57,109 - INFO - [0014]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 03:49:42,845 - INFO - [0015]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 03:58:27,795 - INFO - [0016]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 04:07:12,708 - INFO - [0017]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 04:15:59,176 - INFO - [0018]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 04:24:44,594 - INFO - [0019]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 04:33:30,428 - INFO - [0020]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 04:42:17,402 - INFO - [0021]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 04:51:02,803 - INFO - [0022]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 04:59:48,405 - INFO - [0023]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 05:08:33,950 - INFO - [0024]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 05:17:20,242 - INFO - [0025]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 05:26:05,678 - INFO - [0026]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 05:34:50,225 - INFO - [0027]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 05:43:36,274 - INFO - [0028]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 05:52:22,762 - INFO - [0029]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 06:01:07,873 - INFO - [0030]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 06:09:53,830 - INFO - [0031]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 06:18:39,517 - INFO - [0032]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 06:27:24,833 - INFO - [0033]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 06:36:11,932 - INFO - [0034]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 06:44:57,602 - INFO - [0035]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 06:53:41,332 - INFO - [0036]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 07:02:25,621 - INFO - [0037]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 07:11:07,188 - INFO - [0038]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 07:19:51,303 - INFO - [0039]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 07:28:34,042 - INFO - [0040]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 07:37:17,262 - INFO - [0041]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 07:46:00,998 - INFO - [0042]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 07:54:44,681 - INFO - [0043]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 08:03:29,855 - INFO - [0044]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 08:12:14,502 - INFO - [0045]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 08:20:58,613 - INFO - [0046]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 08:29:42,748 - INFO - [0047]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 08:38:26,267 - INFO - [0048]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 08:47:11,738 - INFO - [0049]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 08:55:56,773 - INFO - [0050]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 09:04:41,005 - INFO - [0051]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 09:13:26,314 - INFO - [0052]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 09:22:09,728 - INFO - [0053]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 09:30:55,165 - INFO - [0054]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 09:39:38,990 - INFO - [0055]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 09:48:23,182 - INFO - [0056]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 09:57:08,306 - INFO - [0057]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 10:05:55,291 - INFO - [0058]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 10:14:40,866 - INFO - [0059]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 10:23:24,623 - INFO - [0060]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 10:32:09,655 - INFO - [0061]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 10:40:55,782 - INFO - [0062]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 10:49:40,795 - INFO - [0063]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 10:58:26,219 - INFO - [0064]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 11:07:11,338 - INFO - [0065]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 11:15:55,993 - INFO - [0066]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 11:24:42,889 - INFO - [0067]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 11:33:28,494 - INFO - [0068]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 11:42:13,823 - INFO - [0069]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 11:50:59,708 - INFO - [0070]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 11:59:46,515 - INFO - [0071]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 12:08:33,248 - INFO - [0072]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 12:17:18,422 - INFO - [0073]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 12:26:03,733 - INFO - [0074]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 12:34:48,769 - INFO - [0075]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 12:43:34,442 - INFO - [0076]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 12:52:18,161 - INFO - [0077]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 13:01:03,094 - INFO - [0078]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 13:09:47,933 - INFO - [0079]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 13:18:34,046 - INFO - [0080]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 13:27:20,331 - INFO - [0081]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 13:36:05,404 - INFO - [0082]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 13:44:51,213 - INFO - [0083]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 13:53:36,298 - INFO - [0084]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 14:02:21,613 - INFO - [0085]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 14:11:09,906 - INFO - [0086]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 14:19:54,055 - INFO - [0087]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 14:28:41,822 - INFO - [0088]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 14:37:30,000 - INFO - [0089]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 14:46:15,891 - INFO - [0090]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 14:55:02,889 - INFO - [0091]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 15:03:48,951 - INFO - [0092]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 15:12:36,810 - INFO - [0093]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 15:21:20,715 - INFO - [0094]: 0.6931471824645996 - train acc: 50.125238549618324 - test_acc: 49.49904580152672
+2023-11-08 16:39:07,040 - INFO - Loading data...
+2023-11-08 16:39:07,127 - INFO - Loading data from dataset/LJSpeech-1.1/wavs...!
+2023-11-08 16:39:07,128 - INFO - Training /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_multi_band_melgan
+2023-11-08 16:39:07,218 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_multi_band_melgan...!
+2023-11-08 16:39:09,077 - INFO - Training rawnet model on 16 audio files.
+2023-11-08 16:39:35,504 - INFO - Loading data...
+2023-11-08 16:39:35,593 - INFO - Loading data from dataset/LJSpeech-1.1/wavs...!
+2023-11-08 16:39:35,593 - INFO - Training /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_multi_band_melgan
+2023-11-08 16:39:35,683 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_multi_band_melgan...!
+2023-11-08 16:39:37,551 - INFO - Training rawnet model on 16 audio files.
+2023-11-08 16:40:04,553 - INFO - Loading data...
+2023-11-08 16:40:04,642 - INFO - Loading data from dataset/LJSpeech-1.1/wavs...!
+2023-11-08 16:40:04,643 - INFO - Training /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_multi_band_melgan
+2023-11-08 16:40:04,735 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_multi_band_melgan...!
+2023-11-08 16:40:06,598 - INFO - Training rawnet model on 160 audio files.
+2023-11-08 16:40:10,214 - INFO - [0000]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 16:40:13,881 - INFO - [0001]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 16:40:17,509 - INFO - [0002]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 16:40:21,149 - INFO - [0003]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 16:40:24,786 - INFO - [0004]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 16:40:28,422 - INFO - [0005]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 16:40:32,031 - INFO - [0006]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 16:40:35,617 - INFO - [0007]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 16:40:39,178 - INFO - [0008]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 16:40:42,698 - INFO - [0009]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 16:40:42,821 - INFO - Training /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_full_band_melgan
+2023-11-08 16:40:42,910 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_full_band_melgan...!
+2023-11-08 16:40:42,999 - INFO - Training rawnet model on 160 audio files.
+2023-11-08 16:40:46,536 - INFO - [0000]: 0.6931471824645996 - train acc: 50.78125 - test_acc: 46.875
+2023-11-08 16:40:50,056 - INFO - [0001]: 0.6931471824645996 - train acc: 50.78125 - test_acc: 46.875
+2023-11-08 16:40:53,575 - INFO - [0002]: 0.6931471824645996 - train acc: 50.78125 - test_acc: 46.875
+2023-11-08 16:40:57,082 - INFO - [0003]: 0.6931471824645996 - train acc: 50.78125 - test_acc: 46.875
+2023-11-08 16:41:00,614 - INFO - [0004]: 0.6931471824645996 - train acc: 50.78125 - test_acc: 46.875
+2023-11-08 16:41:04,161 - INFO - [0005]: 0.6931471824645996 - train acc: 50.78125 - test_acc: 46.875
+2023-11-08 16:41:07,682 - INFO - [0006]: 0.6931471824645996 - train acc: 50.78125 - test_acc: 46.875
+2023-11-08 16:41:11,213 - INFO - [0007]: 0.6931471824645996 - train acc: 50.78125 - test_acc: 46.875
+2023-11-08 16:41:14,752 - INFO - [0008]: 0.6931471824645996 - train acc: 50.78125 - test_acc: 46.875
+2023-11-08 16:41:18,295 - INFO - [0009]: 0.6931471824645996 - train acc: 50.78125 - test_acc: 46.875
+2023-11-08 16:41:18,415 - INFO - Training /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_hifiGAN
+2023-11-08 16:41:18,524 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_hifiGAN...!
+2023-11-08 16:41:18,614 - INFO - Training rawnet model on 160 audio files.
+2023-11-08 16:41:22,155 - INFO - [0000]: 0.6931471824645996 - train acc: 47.65625 - test_acc: 59.375
+2023-11-08 16:41:25,689 - INFO - [0001]: 0.6931471824645996 - train acc: 47.65625 - test_acc: 59.375
+2023-11-08 16:41:29,218 - INFO - [0002]: 0.6931471824645996 - train acc: 47.65625 - test_acc: 59.375
+2023-11-08 16:41:32,730 - INFO - [0003]: 0.6931471824645996 - train acc: 47.65625 - test_acc: 59.375
+2023-11-08 16:41:36,251 - INFO - [0004]: 0.6931471824645996 - train acc: 47.65625 - test_acc: 59.375
+2023-11-08 16:41:39,781 - INFO - [0005]: 0.6931471824645996 - train acc: 47.65625 - test_acc: 59.375
+2023-11-08 16:41:43,322 - INFO - [0006]: 0.6931471824645996 - train acc: 47.65625 - test_acc: 59.375
+2023-11-08 16:41:46,870 - INFO - [0007]: 0.6931471824645996 - train acc: 47.65625 - test_acc: 59.375
+2023-11-08 16:41:50,331 - INFO - [0008]: 0.6931471824645996 - train acc: 47.65625 - test_acc: 59.375
+2023-11-08 16:41:53,859 - INFO - [0009]: 0.6931471824645996 - train acc: 47.65625 - test_acc: 59.375
+2023-11-08 16:41:53,970 - INFO - Training /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_parallel_wavegan
+2023-11-08 16:41:54,073 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_parallel_wavegan...!
+2023-11-08 16:41:54,153 - INFO - Training rawnet model on 160 audio files.
+2023-11-08 16:41:57,699 - INFO - [0000]: 0.6931471824645996 - train acc: 51.5625 - test_acc: 43.75
+2023-11-08 16:42:01,239 - INFO - [0001]: 0.6931471824645996 - train acc: 51.5625 - test_acc: 43.75
+2023-11-08 16:42:04,778 - INFO - [0002]: 0.6931471824645996 - train acc: 51.5625 - test_acc: 43.75
+2023-11-08 16:42:08,298 - INFO - [0003]: 0.6931471824645996 - train acc: 51.5625 - test_acc: 43.75
+2023-11-08 16:42:11,815 - INFO - [0004]: 0.6931471824645996 - train acc: 51.5625 - test_acc: 43.75
+2023-11-08 16:42:15,296 - INFO - [0005]: 0.6931471824645996 - train acc: 51.5625 - test_acc: 43.75
+2023-11-08 16:42:18,775 - INFO - [0006]: 0.6931471824645996 - train acc: 51.5625 - test_acc: 43.75
+2023-11-08 16:42:22,263 - INFO - [0007]: 0.6931471824645996 - train acc: 51.5625 - test_acc: 43.75
+2023-11-08 16:42:25,735 - INFO - [0008]: 0.6931471824645996 - train acc: 51.5625 - test_acc: 43.75
+2023-11-08 16:42:29,225 - INFO - [0009]: 0.6931471824645996 - train acc: 51.5625 - test_acc: 43.75
+2023-11-08 16:42:29,348 - INFO - Training /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan
+2023-11-08 16:42:29,443 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan...!
+2023-11-08 16:42:29,522 - INFO - Training rawnet model on 160 audio files.
+2023-11-08 16:42:33,007 - INFO - [0000]: 0.6931471824645996 - train acc: 46.09375 - test_acc: 65.625
+2023-11-08 16:42:36,480 - INFO - [0001]: 0.6931471824645996 - train acc: 46.09375 - test_acc: 65.625
+2023-11-08 16:42:39,950 - INFO - [0002]: 0.6931471824645996 - train acc: 46.09375 - test_acc: 65.625
+2023-11-08 16:42:43,433 - INFO - [0003]: 0.6931471824645996 - train acc: 46.09375 - test_acc: 65.625
+2023-11-08 16:42:46,914 - INFO - [0004]: 0.6931471824645996 - train acc: 46.09375 - test_acc: 65.625
+2023-11-08 16:42:50,388 - INFO - [0005]: 0.6931471824645996 - train acc: 46.09375 - test_acc: 65.625
+2023-11-08 16:42:53,865 - INFO - [0006]: 0.6931471824645996 - train acc: 46.09375 - test_acc: 65.625
+2023-11-08 16:42:57,344 - INFO - [0007]: 0.6931471824645996 - train acc: 46.09375 - test_acc: 65.625
+2023-11-08 16:43:00,867 - INFO - [0008]: 0.6931471824645996 - train acc: 46.09375 - test_acc: 65.625
+2023-11-08 16:43:04,397 - INFO - [0009]: 0.6931471824645996 - train acc: 46.09375 - test_acc: 65.625
+2023-11-08 16:43:04,511 - INFO - Training /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan_large
+2023-11-08 16:43:04,609 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan_large...!
+2023-11-08 16:43:04,687 - INFO - Training rawnet model on 160 audio files.
+2023-11-08 16:43:08,181 - INFO - [0000]: 0.6931471824645996 - train acc: 49.21875 - test_acc: 53.125
+2023-11-08 16:43:11,736 - INFO - [0001]: 0.6931471824645996 - train acc: 49.21875 - test_acc: 53.125
+2023-11-08 16:43:15,213 - INFO - [0002]: 0.6931471824645996 - train acc: 49.21875 - test_acc: 53.125
+2023-11-08 16:43:18,688 - INFO - [0003]: 0.6931471824645996 - train acc: 49.21875 - test_acc: 53.125
+2023-11-08 16:43:22,227 - INFO - [0004]: 0.6931471824645996 - train acc: 49.21875 - test_acc: 53.125
+2023-11-08 16:43:25,763 - INFO - [0005]: 0.6931471824645996 - train acc: 49.21875 - test_acc: 53.125
+2023-11-08 16:43:29,291 - INFO - [0006]: 0.6931471824645996 - train acc: 49.21875 - test_acc: 53.125
+2023-11-08 16:43:32,773 - INFO - [0007]: 0.6931471824645996 - train acc: 49.21875 - test_acc: 53.125
+2023-11-08 16:43:36,286 - INFO - [0008]: 0.6931471824645996 - train acc: 49.21875 - test_acc: 53.125
+2023-11-08 16:43:39,825 - INFO - [0009]: 0.6931471824645996 - train acc: 49.21875 - test_acc: 53.125
+2023-11-08 16:43:39,950 - INFO - Training /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_waveglow
+2023-11-08 16:43:40,052 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_waveglow...!
+2023-11-08 16:43:40,132 - INFO - Training rawnet model on 160 audio files.
+2023-11-08 16:43:43,646 - INFO - [0000]: 0.6931471824645996 - train acc: 46.875 - test_acc: 62.5
+2023-11-08 16:43:47,146 - INFO - [0001]: 0.6931471824645996 - train acc: 46.875 - test_acc: 62.5
+2023-11-08 16:43:50,624 - INFO - [0002]: 0.6931471824645996 - train acc: 46.875 - test_acc: 62.5
+2023-11-08 16:43:54,104 - INFO - [0003]: 0.6931471824645996 - train acc: 46.875 - test_acc: 62.5
+2023-11-08 16:43:57,572 - INFO - [0004]: 0.6931471824645996 - train acc: 46.875 - test_acc: 62.5
+2023-11-08 16:44:01,051 - INFO - [0005]: 0.6931471824645996 - train acc: 46.875 - test_acc: 62.5
+2023-11-08 16:44:04,522 - INFO - [0006]: 0.6931471824645996 - train acc: 46.875 - test_acc: 62.5
+2023-11-08 16:44:08,012 - INFO - [0007]: 0.6931471824645996 - train acc: 46.875 - test_acc: 62.5
+2023-11-08 16:44:11,495 - INFO - [0008]: 0.6931471824645996 - train acc: 46.875 - test_acc: 62.5
+2023-11-08 16:44:15,027 - INFO - [0009]: 0.6931471824645996 - train acc: 46.875 - test_acc: 62.5
+2023-11-08 16:44:15,151 - INFO - Training out-of-distribution models!
+2023-11-08 16:44:15,151 - INFO - Training all but /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_multi_band_melgan
+2023-11-08 16:44:15,242 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_waveglow...!
+2023-11-08 16:44:15,332 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_hifiGAN...!
+2023-11-08 16:44:15,429 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_full_band_melgan...!
+2023-11-08 16:44:15,518 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_parallel_wavegan...!
+2023-11-08 16:44:15,607 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan...!
+2023-11-08 16:44:15,709 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan_large...!
+2023-11-08 16:44:15,798 - INFO - Training rawnet model on 560 audio files.
+2023-11-08 16:44:28,012 - INFO - [0000]: 1.195988342165947 - train acc: 14.508928571428573 - test_acc: 13.392857142857142
+2023-11-08 16:44:40,217 - INFO - [0001]: 1.1959883400372096 - train acc: 14.508928571428573 - test_acc: 13.392857142857142
+2023-11-08 16:44:52,526 - INFO - [0002]: 1.195988348552159 - train acc: 14.508928571428573 - test_acc: 13.392857142857142
+2023-11-08 16:45:04,896 - INFO - [0003]: 1.1959883400372096 - train acc: 14.508928571428573 - test_acc: 13.392857142857142
+2023-11-08 16:45:17,368 - INFO - [0004]: 1.195988348552159 - train acc: 14.508928571428573 - test_acc: 13.392857142857142
+2023-11-08 16:45:29,800 - INFO - [0005]: 1.1959883570671082 - train acc: 14.508928571428573 - test_acc: 13.392857142857142
+2023-11-08 16:45:42,231 - INFO - [0006]: 1.1959883549383707 - train acc: 14.508928571428573 - test_acc: 13.392857142857142
+2023-11-08 16:45:54,529 - INFO - [0007]: 1.1959883549383707 - train acc: 14.508928571428573 - test_acc: 13.392857142857142
+2023-11-08 16:46:06,675 - INFO - [0008]: 1.1959883613245827 - train acc: 14.508928571428573 - test_acc: 13.392857142857142
+2023-11-08 16:46:19,074 - INFO - [0009]: 1.1959883528096336 - train acc: 14.508928571428573 - test_acc: 13.392857142857142
+2023-11-08 16:46:19,198 - INFO - Training all but /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_full_band_melgan
+2023-11-08 16:46:19,290 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_multi_band_melgan...!
+2023-11-08 16:46:19,380 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_waveglow...!
+2023-11-08 16:46:19,475 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_hifiGAN...!
+2023-11-08 16:46:19,578 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_parallel_wavegan...!
+2023-11-08 16:46:19,670 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan...!
+2023-11-08 16:46:19,762 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan_large...!
+2023-11-08 16:46:19,844 - INFO - Training rawnet model on 560 audio files.
+2023-11-08 16:46:32,098 - INFO - [0000]: 1.203724360891751 - train acc: 14.732142857142858 - test_acc: 12.5
+2023-11-08 16:46:44,273 - INFO - [0001]: 1.2037243779216493 - train acc: 14.732142857142858 - test_acc: 12.5
+2023-11-08 16:46:56,468 - INFO - [0002]: 1.203724354505539 - train acc: 14.732142857142858 - test_acc: 12.5
+2023-11-08 16:47:08,648 - INFO - [0003]: 1.2037243651492255 - train acc: 14.732142857142858 - test_acc: 12.5
+2023-11-08 16:47:20,810 - INFO - [0004]: 1.2037243672779627 - train acc: 14.732142857142858 - test_acc: 12.5
+2023-11-08 16:47:32,995 - INFO - [0005]: 1.2037243587630135 - train acc: 14.732142857142858 - test_acc: 12.5
+2023-11-08 16:47:45,185 - INFO - [0006]: 1.2037243587630135 - train acc: 14.732142857142858 - test_acc: 12.5
+2023-11-08 16:47:57,436 - INFO - [0007]: 1.2037243715354375 - train acc: 14.732142857142858 - test_acc: 12.5
+2023-11-08 16:48:09,693 - INFO - [0008]: 1.2037243630204881 - train acc: 14.732142857142858 - test_acc: 12.5
+2023-11-08 16:48:22,043 - INFO - [0009]: 1.2037243694067001 - train acc: 14.732142857142858 - test_acc: 12.5
+2023-11-08 16:48:22,165 - INFO - Training all but /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_hifiGAN
+2023-11-08 16:48:22,264 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_multi_band_melgan...!
+2023-11-08 16:48:22,360 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_waveglow...!
+2023-11-08 16:48:22,449 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_full_band_melgan...!
+2023-11-08 16:48:22,536 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_parallel_wavegan...!
+2023-11-08 16:48:22,633 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan...!
+2023-11-08 16:48:22,728 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan_large...!
+2023-11-08 16:48:22,814 - INFO - Training rawnet model on 560 audio files.
+2023-11-08 16:48:35,313 - INFO - [0000]: 1.2114603796175547 - train acc: 14.955357142857142 - test_acc: 11.607142857142858
+2023-11-08 16:48:47,994 - INFO - [0001]: 1.211460373231343 - train acc: 14.955357142857142 - test_acc: 11.607142857142858
+2023-11-08 16:49:00,558 - INFO - [0002]: 1.2114603838750295 - train acc: 14.955357142857142 - test_acc: 11.607142857142858
+2023-11-08 16:49:12,808 - INFO - [0003]: 1.2114603860037667 - train acc: 14.955357142857142 - test_acc: 11.607142857142858
+2023-11-08 16:49:25,207 - INFO - [0004]: 1.2114603838750295 - train acc: 14.955357142857142 - test_acc: 11.607142857142858
+2023-11-08 16:49:37,559 - INFO - [0005]: 1.2114603860037667 - train acc: 14.955357142857142 - test_acc: 11.607142857142858
+2023-11-08 16:50:17,704 - INFO - Loading data...
+2023-11-08 16:50:17,790 - INFO - Loading data from dataset/LJSpeech-1.1/wavs...!
+2023-11-08 16:50:17,790 - INFO - Training /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_multi_band_melgan
+2023-11-08 16:50:17,882 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_multi_band_melgan...!
+2023-11-08 16:50:19,754 - INFO - Training rawnet model on 160 audio files.
+2023-11-08 16:55:05,259 - INFO - Loading data...
+2023-11-08 16:55:05,345 - INFO - Loading data from dataset/LJSpeech-1.1/wavs...!
+2023-11-08 16:55:05,345 - INFO - Training /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_multi_band_melgan
+2023-11-08 16:55:05,436 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_multi_band_melgan...!
+2023-11-08 16:55:07,290 - INFO - Training rawnet model on 160 audio files.
+2023-11-08 16:55:17,339 - INFO - Loading data...
+2023-11-08 16:55:17,437 - INFO - Loading data from dataset/LJSpeech-1.1/wavs...!
+2023-11-08 16:55:17,437 - INFO - Training /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_multi_band_melgan
+2023-11-08 16:55:17,529 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_multi_band_melgan...!
+2023-11-08 16:55:19,383 - INFO - Training rawnet model on 160 audio files.
+2023-11-08 16:55:22,670 - INFO - [0000]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 16:55:26,053 - INFO - [0001]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 16:55:29,339 - INFO - [0002]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 16:55:32,637 - INFO - [0003]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 16:55:36,016 - INFO - [0004]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 16:55:39,270 - INFO - [0005]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 16:55:42,562 - INFO - [0006]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 16:55:45,789 - INFO - [0007]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 16:55:49,009 - INFO - [0008]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 16:55:52,216 - INFO - [0009]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 16:55:52,327 - INFO - Training /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_full_band_melgan
+2023-11-08 16:55:52,424 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_full_band_melgan...!
+2023-11-08 16:55:52,513 - INFO - Training rawnet model on 160 audio files.
+2023-11-08 16:55:55,740 - INFO - [0000]: 0.6931471824645996 - train acc: 50.78125 - test_acc: 46.875
+2023-11-08 16:55:58,961 - INFO - [0001]: 0.6931471824645996 - train acc: 50.78125 - test_acc: 46.875
+2023-11-08 16:56:02,177 - INFO - [0002]: 0.6931471824645996 - train acc: 50.78125 - test_acc: 46.875
+2023-11-08 16:56:05,388 - INFO - [0003]: 0.6931471824645996 - train acc: 50.78125 - test_acc: 46.875
+2023-11-08 16:56:08,637 - INFO - [0004]: 0.6931471824645996 - train acc: 50.78125 - test_acc: 46.875
+2023-11-08 16:56:11,995 - INFO - [0005]: 0.6931471824645996 - train acc: 50.78125 - test_acc: 46.875
+2023-11-08 16:56:15,327 - INFO - [0006]: 0.6931471824645996 - train acc: 50.78125 - test_acc: 46.875
+2023-11-08 16:56:18,707 - INFO - [0007]: 0.6931471824645996 - train acc: 50.78125 - test_acc: 46.875
+2023-11-08 16:56:22,035 - INFO - [0008]: 0.6931471824645996 - train acc: 50.78125 - test_acc: 46.875
+2023-11-08 16:56:25,411 - INFO - [0009]: 0.6931471824645996 - train acc: 50.78125 - test_acc: 46.875
+2023-11-08 16:56:25,533 - INFO - Training /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_hifiGAN
+2023-11-08 16:56:25,633 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_hifiGAN...!
+2023-11-08 16:56:25,722 - INFO - Training rawnet model on 160 audio files.
+2023-11-08 16:56:29,107 - INFO - [0000]: 0.6931471824645996 - train acc: 47.65625 - test_acc: 59.375
+2023-11-08 16:56:32,466 - INFO - [0001]: 0.6931471824645996 - train acc: 47.65625 - test_acc: 59.375
+2023-11-08 16:56:35,814 - INFO - [0002]: 0.6931471824645996 - train acc: 47.65625 - test_acc: 59.375
+2023-11-08 16:56:39,100 - INFO - [0003]: 0.6931471824645996 - train acc: 47.65625 - test_acc: 59.375
+2023-11-08 16:56:42,357 - INFO - [0004]: 0.6931471824645996 - train acc: 47.65625 - test_acc: 59.375
+2023-11-08 16:56:45,601 - INFO - [0005]: 0.6931471824645996 - train acc: 47.65625 - test_acc: 59.375
+2023-11-08 16:56:48,854 - INFO - [0006]: 0.6931471824645996 - train acc: 47.65625 - test_acc: 59.375
+2023-11-08 16:56:52,204 - INFO - [0007]: 0.6931471824645996 - train acc: 47.65625 - test_acc: 59.375
+2023-11-08 16:56:55,477 - INFO - [0008]: 0.6931471824645996 - train acc: 47.65625 - test_acc: 59.375
+2023-11-08 16:56:58,747 - INFO - [0009]: 0.6931471824645996 - train acc: 47.65625 - test_acc: 59.375
+2023-11-08 16:56:58,871 - INFO - Training /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_parallel_wavegan
+2023-11-08 16:56:58,959 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_parallel_wavegan...!
+2023-11-08 16:56:59,038 - INFO - Training rawnet model on 160 audio files.
+2023-11-08 16:57:02,313 - INFO - [0000]: 0.6931471824645996 - train acc: 51.5625 - test_acc: 43.75
+2023-11-08 16:57:05,552 - INFO - [0001]: 0.6931471824645996 - train acc: 51.5625 - test_acc: 43.75
+2023-11-08 16:57:08,803 - INFO - [0002]: 0.6931471824645996 - train acc: 51.5625 - test_acc: 43.75
+2023-11-08 16:57:12,042 - INFO - [0003]: 0.6931471824645996 - train acc: 51.5625 - test_acc: 43.75
+2023-11-08 16:57:15,289 - INFO - [0004]: 0.6931471824645996 - train acc: 51.5625 - test_acc: 43.75
+2023-11-08 16:57:18,561 - INFO - [0005]: 0.6931471824645996 - train acc: 51.5625 - test_acc: 43.75
+2023-11-08 16:57:21,826 - INFO - [0006]: 0.6931471824645996 - train acc: 51.5625 - test_acc: 43.75
+2023-11-08 16:57:25,076 - INFO - [0007]: 0.6931471824645996 - train acc: 51.5625 - test_acc: 43.75
+2023-11-08 16:57:28,325 - INFO - [0008]: 0.6931471824645996 - train acc: 51.5625 - test_acc: 43.75
+2023-11-08 16:57:31,562 - INFO - [0009]: 0.6931471824645996 - train acc: 51.5625 - test_acc: 43.75
+2023-11-08 16:57:31,683 - INFO - Training /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan
+2023-11-08 16:57:31,772 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan...!
+2023-11-08 16:57:31,859 - INFO - Training rawnet model on 160 audio files.
+2023-11-08 16:57:35,126 - INFO - [0000]: 0.6931471824645996 - train acc: 46.09375 - test_acc: 65.625
+2023-11-08 16:57:38,381 - INFO - [0001]: 0.6931471824645996 - train acc: 46.09375 - test_acc: 65.625
+2023-11-08 16:57:41,635 - INFO - [0002]: 0.6931471824645996 - train acc: 46.09375 - test_acc: 65.625
+2023-11-08 16:57:44,892 - INFO - [0003]: 0.6931471824645996 - train acc: 46.09375 - test_acc: 65.625
+2023-11-08 16:57:48,136 - INFO - [0004]: 0.6931471824645996 - train acc: 46.09375 - test_acc: 65.625
+2023-11-08 16:57:51,445 - INFO - [0005]: 0.6931471824645996 - train acc: 46.09375 - test_acc: 65.625
+2023-11-08 16:57:54,663 - INFO - [0006]: 0.6931471824645996 - train acc: 46.09375 - test_acc: 65.625
+2023-11-08 16:57:57,934 - INFO - [0007]: 0.6931471824645996 - train acc: 46.09375 - test_acc: 65.625
+2023-11-08 16:58:01,221 - INFO - [0008]: 0.6931471824645996 - train acc: 46.09375 - test_acc: 65.625
+2023-11-08 16:58:04,488 - INFO - [0009]: 0.6931471824645996 - train acc: 46.09375 - test_acc: 65.625
+2023-11-08 16:58:04,614 - INFO - Training /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan_large
+2023-11-08 16:58:04,712 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan_large...!
+2023-11-08 16:58:04,790 - INFO - Training rawnet model on 160 audio files.
+2023-11-08 16:58:08,049 - INFO - [0000]: 0.6931471824645996 - train acc: 49.21875 - test_acc: 53.125
+2023-11-08 16:58:11,309 - INFO - [0001]: 0.6931471824645996 - train acc: 49.21875 - test_acc: 53.125
+2023-11-08 16:58:14,572 - INFO - [0002]: 0.6931471824645996 - train acc: 49.21875 - test_acc: 53.125
+2023-11-08 16:58:17,824 - INFO - [0003]: 0.6931471824645996 - train acc: 49.21875 - test_acc: 53.125
+2023-11-08 16:58:21,076 - INFO - [0004]: 0.6931471824645996 - train acc: 49.21875 - test_acc: 53.125
+2023-11-08 16:58:24,337 - INFO - [0005]: 0.6931471824645996 - train acc: 49.21875 - test_acc: 53.125
+2023-11-08 16:58:27,595 - INFO - [0006]: 0.6931471824645996 - train acc: 49.21875 - test_acc: 53.125
+2023-11-08 16:58:30,894 - INFO - [0007]: 0.6931471824645996 - train acc: 49.21875 - test_acc: 53.125
+2023-11-08 16:58:34,149 - INFO - [0008]: 0.6931471824645996 - train acc: 49.21875 - test_acc: 53.125
+2023-11-08 16:58:37,480 - INFO - [0009]: 0.6931471824645996 - train acc: 49.21875 - test_acc: 53.125
+2023-11-08 16:58:37,587 - INFO - Training /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_waveglow
+2023-11-08 16:58:37,683 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_waveglow...!
+2023-11-08 16:58:37,777 - INFO - Training rawnet model on 160 audio files.
+2023-11-08 16:58:41,178 - INFO - [0000]: 0.6931471824645996 - train acc: 46.875 - test_acc: 62.5
+2023-11-08 16:58:44,527 - INFO - [0001]: 0.6931471824645996 - train acc: 46.875 - test_acc: 62.5
+2023-11-08 16:58:47,805 - INFO - [0002]: 0.6931471824645996 - train acc: 46.875 - test_acc: 62.5
+2023-11-08 16:58:51,153 - INFO - [0003]: 0.6931471824645996 - train acc: 46.875 - test_acc: 62.5
+2023-11-08 16:58:54,516 - INFO - [0004]: 0.6931471824645996 - train acc: 46.875 - test_acc: 62.5
+2023-11-08 16:58:57,983 - INFO - [0005]: 0.6931471824645996 - train acc: 46.875 - test_acc: 62.5
+2023-11-08 16:59:01,749 - INFO - [0006]: 0.6931471824645996 - train acc: 46.875 - test_acc: 62.5
+2023-11-08 16:59:05,412 - INFO - [0007]: 0.6931471824645996 - train acc: 46.875 - test_acc: 62.5
+2023-11-08 16:59:09,010 - INFO - [0008]: 0.6931471824645996 - train acc: 46.875 - test_acc: 62.5
+2023-11-08 16:59:12,586 - INFO - [0009]: 0.6931471824645996 - train acc: 46.875 - test_acc: 62.5
+2023-11-08 16:59:12,706 - INFO - Training out-of-distribution models!
+2023-11-08 16:59:12,707 - INFO - Training all but /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_multi_band_melgan
+2023-11-08 16:59:12,804 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_parallel_wavegan...!
+2023-11-08 16:59:12,903 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan...!
+2023-11-08 16:59:13,009 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_hifiGAN...!
+2023-11-08 16:59:13,106 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_waveglow...!
+2023-11-08 16:59:13,206 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_full_band_melgan...!
+2023-11-08 16:59:13,315 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan_large...!
+2023-11-08 16:59:13,400 - INFO - Training rawnet model on 560 audio files.
+2023-11-08 16:59:25,912 - INFO - [0000]: 1.1959883570671082 - train acc: 14.508928571428573 - test_acc: 12.5
+2023-11-08 16:59:38,017 - INFO - [0001]: 1.1959883740970068 - train acc: 14.508928571428573 - test_acc: 12.5
+2023-11-08 16:59:50,217 - INFO - [0002]: 1.1959883911269051 - train acc: 14.508928571428573 - test_acc: 12.5
+2023-11-08 17:00:02,743 - INFO - [0003]: 1.1959883655820573 - train acc: 14.508928571428573 - test_acc: 12.5
+2023-11-08 17:00:15,663 - INFO - [0004]: 1.1959883911269051 - train acc: 14.508928571428573 - test_acc: 12.5
+2023-11-08 17:00:28,324 - INFO - [0005]: 1.1959883996418543 - train acc: 14.508928571428573 - test_acc: 12.5
+2023-11-08 17:00:40,881 - INFO - [0006]: 1.1959883911269051 - train acc: 14.508928571428573 - test_acc: 12.5
+2023-11-08 17:00:53,240 - INFO - [0007]: 1.1959883740970068 - train acc: 14.508928571428573 - test_acc: 12.5
+2023-11-08 17:01:05,365 - INFO - [0008]: 1.1959883996418543 - train acc: 14.508928571428573 - test_acc: 12.5
+2023-11-08 17:01:17,670 - INFO - [0009]: 1.1959883740970068 - train acc: 14.508928571428573 - test_acc: 12.5
+2023-11-08 17:01:17,803 - INFO - Training all but /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_full_band_melgan
+2023-11-08 17:01:17,906 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_parallel_wavegan...!
+2023-11-08 17:01:18,005 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan...!
+2023-11-08 17:01:18,107 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_hifiGAN...!
+2023-11-08 17:01:18,219 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_waveglow...!
+2023-11-08 17:01:18,320 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_multi_band_melgan...!
+2023-11-08 17:01:18,440 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan_large...!
+2023-11-08 17:01:18,526 - INFO - Training rawnet model on 560 audio files.
+2023-11-08 17:01:30,698 - INFO - [0000]: 1.2037243843078613 - train acc: 14.732142857142858 - test_acc: 10.416666666666668
+2023-11-08 17:01:42,860 - INFO - [0001]: 1.2037244183676583 - train acc: 14.732142857142858 - test_acc: 10.416666666666668
+2023-11-08 17:01:54,874 - INFO - [0002]: 1.2037243843078613 - train acc: 14.732142857142858 - test_acc: 10.416666666666668
+2023-11-08 17:02:07,014 - INFO - [0003]: 1.2037243843078613 - train acc: 14.732142857142858 - test_acc: 10.416666666666668
+2023-11-08 17:02:19,149 - INFO - [0004]: 1.2037243843078613 - train acc: 14.732142857142858 - test_acc: 10.416666666666668
+2023-11-08 17:02:31,305 - INFO - [0005]: 1.2037243843078613 - train acc: 14.732142857142858 - test_acc: 10.416666666666668
+2023-11-08 17:02:43,394 - INFO - [0006]: 1.20372440133776 - train acc: 14.732142857142858 - test_acc: 10.416666666666668
+2023-11-08 17:02:55,367 - INFO - [0007]: 1.2037244183676583 - train acc: 14.732142857142858 - test_acc: 10.416666666666668
+2023-11-08 17:03:07,335 - INFO - [0008]: 1.2037243928228105 - train acc: 14.732142857142858 - test_acc: 10.416666666666668
+2023-11-08 17:03:19,175 - INFO - [0009]: 1.2037243928228105 - train acc: 14.732142857142858 - test_acc: 10.416666666666668
+2023-11-08 17:03:19,302 - INFO - Training all but /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_hifiGAN
+2023-11-08 17:03:19,414 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_parallel_wavegan...!
+2023-11-08 17:03:19,511 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan...!
+2023-11-08 17:03:19,606 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_waveglow...!
+2023-11-08 17:03:19,704 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_multi_band_melgan...!
+2023-11-08 17:03:19,813 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_full_band_melgan...!
+2023-11-08 17:03:19,911 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan_large...!
+2023-11-08 17:03:19,994 - INFO - Training rawnet model on 560 audio files.
+2023-11-08 17:03:31,889 - INFO - [0000]: 1.2114604115486145 - train acc: 14.955357142857142 - test_acc: 12.5
+2023-11-08 17:03:43,766 - INFO - [0001]: 1.2114604200635637 - train acc: 14.955357142857142 - test_acc: 12.5
+2023-11-08 17:03:55,752 - INFO - [0002]: 1.211460428578513 - train acc: 14.955357142857142 - test_acc: 12.5
+2023-11-08 17:04:07,568 - INFO - [0003]: 1.2114604030336653 - train acc: 14.955357142857142 - test_acc: 12.5
+2023-11-08 17:04:19,746 - INFO - [0004]: 1.2114604115486145 - train acc: 14.955357142857142 - test_acc: 12.5
+2023-11-08 17:04:31,638 - INFO - [0005]: 1.2114604030336653 - train acc: 14.955357142857142 - test_acc: 12.5
+2023-11-08 17:04:43,725 - INFO - [0006]: 1.2114604115486145 - train acc: 14.955357142857142 - test_acc: 12.5
+2023-11-08 17:04:55,736 - INFO - [0007]: 1.2114604115486145 - train acc: 14.955357142857142 - test_acc: 12.5
+2023-11-08 17:05:07,750 - INFO - [0008]: 1.2114604115486145 - train acc: 14.955357142857142 - test_acc: 12.5
+2023-11-08 17:05:19,690 - INFO - [0009]: 1.211460428578513 - train acc: 14.955357142857142 - test_acc: 12.5
+2023-11-08 17:05:19,820 - INFO - Training all but /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_parallel_wavegan
+2023-11-08 17:05:19,918 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan...!
+2023-11-08 17:05:20,016 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_hifiGAN...!
+2023-11-08 17:05:20,121 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_waveglow...!
+2023-11-08 17:05:20,222 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_multi_band_melgan...!
+2023-11-08 17:05:20,322 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_full_band_melgan...!
+2023-11-08 17:05:20,434 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan_large...!
+2023-11-08 17:05:20,520 - INFO - Training rawnet model on 560 audio files.
+2023-11-08 17:05:32,652 - INFO - [0000]: 1.226932440485273 - train acc: 15.401785714285715 - test_acc: 11.458333333333332
+2023-11-08 17:05:44,836 - INFO - [0001]: 1.226932440485273 - train acc: 15.401785714285715 - test_acc: 11.458333333333332
+2023-11-08 17:05:56,920 - INFO - [0002]: 1.2269324575151717 - train acc: 15.401785714285715 - test_acc: 11.458333333333332
+2023-11-08 17:06:08,981 - INFO - [0003]: 1.2269324660301208 - train acc: 15.401785714285715 - test_acc: 11.458333333333332
+2023-11-08 17:06:20,948 - INFO - [0004]: 1.2269324490002222 - train acc: 15.401785714285715 - test_acc: 11.458333333333332
+2023-11-08 17:06:32,994 - INFO - [0005]: 1.2269324575151717 - train acc: 15.401785714285715 - test_acc: 11.458333333333332
+2023-11-08 17:06:45,376 - INFO - [0006]: 1.226932440485273 - train acc: 15.401785714285715 - test_acc: 11.458333333333332
+2023-11-08 17:06:57,565 - INFO - [0007]: 1.226932440485273 - train acc: 15.401785714285715 - test_acc: 11.458333333333332
+2023-11-08 17:07:09,653 - INFO - [0008]: 1.2269324319703239 - train acc: 15.401785714285715 - test_acc: 11.458333333333332
+2023-11-08 17:07:21,720 - INFO - [0009]: 1.2269324490002222 - train acc: 15.401785714285715 - test_acc: 11.458333333333332
+2023-11-08 17:07:21,815 - INFO - Training all but /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan
+2023-11-08 17:07:21,914 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_parallel_wavegan...!
+2023-11-08 17:07:22,029 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_hifiGAN...!
+2023-11-08 17:07:22,126 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_waveglow...!
+2023-11-08 17:07:22,232 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_multi_band_melgan...!
+2023-11-08 17:07:22,329 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_full_band_melgan...!
+2023-11-08 17:07:22,427 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan_large...!
+2023-11-08 17:07:22,510 - INFO - Training rawnet model on 560 audio files.
+2023-11-08 17:07:34,562 - INFO - [0000]: 1.1495722787720817 - train acc: 13.169642857142858 - test_acc: 17.708333333333336
+2023-11-08 17:07:46,602 - INFO - [0001]: 1.1495722702571325 - train acc: 13.169642857142858 - test_acc: 17.708333333333336
+2023-11-08 17:07:58,614 - INFO - [0002]: 1.1495722872870309 - train acc: 13.169642857142858 - test_acc: 17.708333333333336
+2023-11-08 17:08:10,526 - INFO - [0003]: 1.149572261742183 - train acc: 13.169642857142858 - test_acc: 17.708333333333336
+2023-11-08 17:08:22,434 - INFO - [0004]: 1.149572261742183 - train acc: 13.169642857142858 - test_acc: 17.708333333333336
+2023-11-08 17:08:34,669 - INFO - [0005]: 1.1495722787720817 - train acc: 13.169642857142858 - test_acc: 17.708333333333336
+2023-11-08 17:08:46,780 - INFO - [0006]: 1.1495722702571325 - train acc: 13.169642857142858 - test_acc: 17.708333333333336
+2023-11-08 17:08:58,699 - INFO - [0007]: 1.1495722787720817 - train acc: 13.169642857142858 - test_acc: 17.708333333333336
+2023-11-08 17:09:10,900 - INFO - [0008]: 1.1495722532272339 - train acc: 13.169642857142858 - test_acc: 17.708333333333336
+2023-11-08 17:09:22,743 - INFO - [0009]: 1.1495722787720817 - train acc: 13.169642857142858 - test_acc: 17.708333333333336
+2023-11-08 17:09:22,837 - INFO - Training all but /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan_large
+2023-11-08 17:09:22,946 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_parallel_wavegan...!
+2023-11-08 17:09:23,043 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan...!
+2023-11-08 17:09:23,141 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_hifiGAN...!
+2023-11-08 17:09:23,236 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_waveglow...!
+2023-11-08 17:09:23,343 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_multi_band_melgan...!
+2023-11-08 17:09:23,440 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_full_band_melgan...!
+2023-11-08 17:09:23,523 - INFO - Training rawnet model on 560 audio files.
+2023-11-08 17:09:35,331 - INFO - [0000]: 1.1959883740970068 - train acc: 14.508928571428573 - test_acc: 15.625
+2023-11-08 17:09:47,328 - INFO - [0001]: 1.1959883996418543 - train acc: 14.508928571428573 - test_acc: 15.625
+2023-11-08 17:09:59,425 - INFO - [0002]: 1.195988382611956 - train acc: 14.508928571428573 - test_acc: 15.625
+2023-11-08 17:10:11,469 - INFO - [0003]: 1.1959883911269051 - train acc: 14.508928571428573 - test_acc: 15.625
+2023-11-08 17:10:23,430 - INFO - [0004]: 1.1959883911269051 - train acc: 14.508928571428573 - test_acc: 15.625
+2023-11-08 17:10:35,408 - INFO - [0005]: 1.1959883911269051 - train acc: 14.508928571428573 - test_acc: 15.625
+2023-11-08 17:10:47,507 - INFO - [0006]: 1.195988382611956 - train acc: 14.508928571428573 - test_acc: 15.625
+2023-11-08 17:10:59,768 - INFO - [0007]: 1.1959883911269051 - train acc: 14.508928571428573 - test_acc: 15.625
+2023-11-08 17:11:11,732 - INFO - [0008]: 1.1959883740970068 - train acc: 14.508928571428573 - test_acc: 15.625
+2023-11-08 17:11:23,651 - INFO - [0009]: 1.1959883655820573 - train acc: 14.508928571428573 - test_acc: 15.625
+2023-11-08 17:11:23,746 - INFO - Training all but /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_waveglow
+2023-11-08 17:11:23,844 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_parallel_wavegan...!
+2023-11-08 17:11:23,953 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan...!
+2023-11-08 17:11:24,051 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_hifiGAN...!
+2023-11-08 17:11:24,148 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_multi_band_melgan...!
+2023-11-08 17:11:24,248 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_full_band_melgan...!
+2023-11-08 17:11:24,355 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan_large...!
+2023-11-08 17:11:24,438 - INFO - Training rawnet model on 560 audio files.
+2023-11-08 17:11:36,375 - INFO - [0000]: 1.1495722787720817 - train acc: 13.169642857142858 - test_acc: 16.666666666666664
+2023-11-08 17:11:48,476 - INFO - [0001]: 1.1495722787720817 - train acc: 13.169642857142858 - test_acc: 16.666666666666664
+2023-11-08 17:12:00,628 - INFO - [0002]: 1.1495722872870309 - train acc: 13.169642857142858 - test_acc: 16.666666666666664
+2023-11-08 17:12:12,644 - INFO - [0003]: 1.1495722787720817 - train acc: 13.169642857142858 - test_acc: 16.666666666666664
+2023-11-08 17:12:24,546 - INFO - [0004]: 1.1495722872870309 - train acc: 13.169642857142858 - test_acc: 16.666666666666664
+2023-11-08 17:12:36,601 - INFO - [0005]: 1.1495722787720817 - train acc: 13.169642857142858 - test_acc: 16.666666666666664
+2023-11-08 17:12:48,765 - INFO - [0006]: 1.149572261742183 - train acc: 13.169642857142858 - test_acc: 16.666666666666664
+2023-11-08 17:13:01,045 - INFO - [0007]: 1.1495722787720817 - train acc: 13.169642857142858 - test_acc: 16.666666666666664
+2023-11-08 17:13:13,012 - INFO - [0008]: 1.1495722872870309 - train acc: 13.169642857142858 - test_acc: 16.666666666666664
+2023-11-08 17:13:25,009 - INFO - [0009]: 1.1495722702571325 - train acc: 13.169642857142858 - test_acc: 16.666666666666664
+2023-11-08 17:13:25,104 - INFO - Training single fake models done!
+2023-11-08 17:37:55,513 - INFO - Loading data...
+2023-11-08 17:37:55,612 - INFO - Loading data from dataset/LJSpeech-1.1/wavs...!
+2023-11-08 17:37:55,612 - INFO - Training /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_multi_band_melgan
+2023-11-08 17:37:55,707 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_multi_band_melgan...!
+2023-11-08 17:37:57,636 - INFO - Training rawnet model on 206 audio files.
+2023-11-08 17:38:01,854 - INFO - [0000]: 0.6931471824645996 - train acc: 50.625 - test_acc: 50.0
+2023-11-08 17:40:48,101 - INFO - Loading data...
+2023-11-08 17:40:48,191 - INFO - Loading data from dataset/LJSpeech-1.1/wavs...!
+2023-11-08 17:40:48,191 - INFO - Training /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_multi_band_melgan
+2023-11-08 17:40:48,286 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_multi_band_melgan...!
+2023-11-08 17:40:50,286 - INFO - Training rawnet model on 20960 audio files.
+2023-11-08 17:48:28,521 - INFO - Loading data...
+2023-11-08 17:48:28,610 - INFO - Loading data from dataset/LJSpeech-1.1/wavs...!
+2023-11-08 17:48:28,611 - INFO - Training real model on 1000 audio files.
+2023-11-08 17:48:52,018 - DEBUG - Starting training...
+2023-11-08 17:48:52,033 - DEBUG - Starting training run 001...
+2023-11-08 17:49:14,357 - DEBUG - Finished   2 iteration(s): Current lower bound: -33.53715515136719!
+2023-11-08 17:49:24,738 - DEBUG - Finished   3 iteration(s): Current lower bound: -33.04409408569336!
+2023-11-08 17:49:35,352 - DEBUG - Finished   4 iteration(s): Current lower bound: -32.80052185058594!
+2023-11-08 17:49:45,891 - DEBUG - Finished   5 iteration(s): Current lower bound: -32.64578628540039!
+2023-11-08 17:49:56,335 - DEBUG - Finished   6 iteration(s): Current lower bound: -32.53515625!
+2023-11-08 17:50:06,714 - DEBUG - Finished   7 iteration(s): Current lower bound: -32.451904296875!
+2023-11-08 17:50:17,416 - DEBUG - Finished   8 iteration(s): Current lower bound: -32.38771057128906!
+2023-11-08 17:50:27,933 - DEBUG - Finished   9 iteration(s): Current lower bound: -32.33775329589844!
+2023-11-08 17:50:38,249 - DEBUG - Finished  10 iteration(s): Current lower bound: -32.29766845703125!
+2023-11-08 17:50:48,856 - DEBUG - Finished  11 iteration(s): Current lower bound: -32.264076232910156!
+2023-11-08 17:50:59,228 - DEBUG - Finished  12 iteration(s): Current lower bound: -32.23505783081055!
+2023-11-08 17:51:09,813 - DEBUG - Finished  13 iteration(s): Current lower bound: -32.209999084472656!
+2023-11-08 17:51:20,345 - DEBUG - Finished  14 iteration(s): Current lower bound: -32.18904113769531!
+2023-11-08 17:51:30,868 - DEBUG - Finished  15 iteration(s): Current lower bound: -32.171409606933594!
+2023-11-08 17:51:41,457 - DEBUG - Finished  16 iteration(s): Current lower bound: -32.15627670288086!
+2023-11-08 17:51:52,095 - DEBUG - Finished  17 iteration(s): Current lower bound: -32.14301681518555!
+2023-11-08 17:52:02,619 - DEBUG - Finished  18 iteration(s): Current lower bound: -32.131072998046875!
+2023-11-08 17:52:13,209 - DEBUG - Finished  19 iteration(s): Current lower bound: -32.11997604370117!
+2023-11-08 17:52:23,758 - DEBUG - Finished  20 iteration(s): Current lower bound: -32.1097412109375!
+2023-11-08 17:53:00,328 - INFO - Loading data...
+2023-11-08 17:53:00,418 - INFO - Loading data from dataset/LJSpeech-1.1/wavs...!
+2023-11-08 17:53:00,418 - INFO - Training /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_multi_band_melgan
+2023-11-08 17:53:00,516 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_multi_band_melgan...!
+2023-11-08 17:53:00,603 - INFO - Training rawnet model on 20960 audio files.
+2023-11-08 17:54:59,225 - INFO - Loading data...
+2023-11-08 17:54:59,328 - INFO - Loading data from dataset/LJSpeech-1.1/wavs...!
+2023-11-08 17:54:59,328 - INFO - Training /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_multi_band_melgan
+2023-11-08 17:54:59,424 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_multi_band_melgan...!
+2023-11-08 17:54:59,508 - INFO - Training rawnet model on 160 audio files.
+2023-11-08 17:55:12,981 - INFO - [0000]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 17:55:26,216 - INFO - [0001]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 17:55:39,547 - INFO - [0002]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 17:55:53,727 - INFO - [0003]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 17:56:07,966 - INFO - [0004]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 17:56:21,712 - INFO - [0005]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 17:56:35,013 - INFO - [0006]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 17:56:48,359 - INFO - [0007]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 17:57:01,954 - INFO - [0008]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:00:24,950 - INFO - Loading data...
+2023-11-08 18:00:25,051 - INFO - Loading data from dataset/LJSpeech-1.1/wavs...!
+2023-11-08 18:00:25,051 - INFO - Training dataset/generated_audio/common_voices_prompts_from_conformer_fastspeech2_pwg_ljspeech
+2023-11-08 18:00:25,329 - INFO - Loading data from dataset/generated_audio/common_voices_prompts_from_conformer_fastspeech2_pwg_ljspeech...!
+2023-11-08 18:00:25,418 - INFO - Training rawnet model on 160 audio files.
+2023-11-08 18:00:38,276 - INFO - [0000]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:00:50,689 - INFO - [0001]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:01:03,458 - INFO - [0002]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:01:16,421 - INFO - [0003]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:01:29,022 - INFO - [0004]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:01:41,694 - INFO - [0005]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:01:54,482 - INFO - [0006]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:02:06,885 - INFO - [0007]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:02:19,920 - INFO - [0008]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:02:32,709 - INFO - [0009]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:02:45,394 - INFO - [0010]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:02:57,882 - INFO - [0011]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:03:10,150 - INFO - [0012]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:03:22,554 - INFO - [0013]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:03:35,214 - INFO - [0014]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:03:47,711 - INFO - [0015]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:04:00,227 - INFO - [0016]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:04:13,221 - INFO - [0017]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:04:26,026 - INFO - [0018]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:04:39,267 - INFO - [0019]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:04:52,229 - INFO - [0020]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:05:05,038 - INFO - [0021]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:05:17,840 - INFO - [0022]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:05:30,269 - INFO - [0023]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:05:42,680 - INFO - [0024]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:05:55,112 - INFO - [0025]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:06:07,608 - INFO - [0026]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:06:20,571 - INFO - [0027]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:06:33,425 - INFO - [0028]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:06:42,662 - INFO - Loading data...
+2023-11-08 18:06:42,754 - INFO - Loading data from dataset/LJSpeech-1.1/wavs...!
+2023-11-08 18:06:42,755 - INFO - Training dataset/generated_audio/common_voices_prompts_from_conformer_fastspeech2_pwg_ljspeech
+2023-11-08 18:06:43,009 - INFO - Loading data from dataset/generated_audio/common_voices_prompts_from_conformer_fastspeech2_pwg_ljspeech...!
+2023-11-08 18:06:43,096 - INFO - Training rawnet model on 160 audio files.
+2023-11-08 18:06:55,681 - INFO - [0000]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:07:08,085 - INFO - [0001]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:07:20,907 - INFO - [0002]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:07:33,550 - INFO - [0003]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:07:46,616 - INFO - [0004]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:07:59,237 - INFO - [0005]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:08:11,962 - INFO - [0006]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:08:24,896 - INFO - [0007]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:08:38,026 - INFO - [0008]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:08:50,872 - INFO - [0009]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:08:50,949 - INFO - Training out-of-distribution models!
+2023-11-08 18:08:50,949 - INFO - Training all but dataset/generated_audio/common_voices_prompts_from_conformer_fastspeech2_pwg_ljspeech
+2023-11-08 18:08:51,025 - INFO - Training rawnet model on 80 audio files.
+2023-11-08 18:08:57,714 - INFO - [0000]: 0.0 - train acc: 100.0 - test_acc: 100.0
+2023-11-08 18:09:04,594 - INFO - [0001]: 0.0 - train acc: 100.0 - test_acc: 100.0
+2023-11-08 18:09:11,915 - INFO - [0002]: 0.0 - train acc: 100.0 - test_acc: 100.0
+2023-11-08 18:09:18,799 - INFO - [0003]: 0.0 - train acc: 100.0 - test_acc: 100.0
+2023-11-08 18:09:25,510 - INFO - [0004]: 0.0 - train acc: 100.0 - test_acc: 100.0
+2023-11-08 18:09:32,331 - INFO - [0005]: 0.0 - train acc: 100.0 - test_acc: 100.0
+2023-11-08 18:09:39,221 - INFO - [0006]: 0.0 - train acc: 100.0 - test_acc: 100.0
+2023-11-08 18:09:46,040 - INFO - [0007]: 0.0 - train acc: 100.0 - test_acc: 100.0
+2023-11-08 18:09:52,581 - INFO - [0008]: 0.0 - train acc: 100.0 - test_acc: 100.0
+2023-11-08 18:09:59,510 - INFO - [0009]: 0.0 - train acc: 100.0 - test_acc: 100.0
+2023-11-08 18:09:59,577 - INFO - Training single fake models done!
+2023-11-08 18:10:27,750 - INFO - Reak data: {real_training_distribution}
+2023-11-08 18:10:27,750 - INFO - Loading data...
+2023-11-08 18:10:27,850 - INFO - Loading data from dataset/LJSpeech-1.1/wavs...!
+2023-11-08 18:10:27,850 - INFO - Training dataset/generated_audio/common_voices_prompts_from_conformer_fastspeech2_pwg_ljspeech
+2023-11-08 18:10:28,126 - INFO - Loading data from dataset/generated_audio/common_voices_prompts_from_conformer_fastspeech2_pwg_ljspeech...!
+2023-11-08 18:10:28,217 - INFO - Training rawnet model on 160 audio files.
+2023-11-08 18:13:34,434 - INFO - Loading data...
+2023-11-08 18:13:34,527 - INFO - Loading data from dataset/LJSpeech-1.1/wavs...!
+2023-11-08 18:13:34,527 - INFO - Training dataset/generated_audio/common_voices_prompts_from_conformer_fastspeech2_pwg_ljspeech
+2023-11-08 18:13:34,780 - INFO - Loading data from dataset/generated_audio/common_voices_prompts_from_conformer_fastspeech2_pwg_ljspeech...!
+2023-11-08 18:13:34,865 - INFO - Training rawnet model on 160 audio files.
+2023-11-08 18:14:01,987 - INFO - Loading data...
+2023-11-08 18:14:02,076 - INFO - Loading data from dataset/LJSpeech-1.1/wavs...!
+2023-11-08 18:14:02,076 - INFO - Training dataset/generated_audio/common_voices_prompts_from_conformer_fastspeech2_pwg_ljspeech
+2023-11-08 18:14:02,327 - INFO - Loading data from dataset/generated_audio/common_voices_prompts_from_conformer_fastspeech2_pwg_ljspeech...!
+2023-11-08 18:14:02,410 - INFO - Training rawnet model on 160 audio files.
+2023-11-08 18:14:40,596 - INFO - Loading data... start of train raw model
+2023-11-08 18:14:40,700 - INFO - Loading data from dataset/LJSpeech-1.1/wavs...!
+2023-11-08 18:14:40,700 - INFO - Training dataset/generated_audio/common_voices_prompts_from_conformer_fastspeech2_pwg_ljspeech
+2023-11-08 18:14:40,963 - INFO - Loading data from dataset/generated_audio/common_voices_prompts_from_conformer_fastspeech2_pwg_ljspeech...!
+2023-11-08 18:14:41,048 - INFO - Training rawnet model on 160 audio files.
+2023-11-08 18:14:58,813 - INFO - Loading data from dataset/LJSpeech-1.1/wavs...!
+2023-11-08 18:14:58,813 - INFO - Training dataset/generated_audio/common_voices_prompts_from_conformer_fastspeech2_pwg_ljspeech
+2023-11-08 18:14:59,064 - INFO - Loading data from dataset/generated_audio/common_voices_prompts_from_conformer_fastspeech2_pwg_ljspeech...!
+2023-11-08 18:14:59,145 - INFO - Training rawnet model on 160 audio files.
+2023-11-08 18:15:53,341 - INFO - Loading data...
+2023-11-08 18:15:53,431 - INFO - Loading data from dataset/LJSpeech-1.1/wavs...!
+2023-11-08 18:16:39,973 - INFO - Loading data...
+2023-11-08 18:16:40,063 - INFO - Loading data from dataset/LJSpeech-1.1/wavs...!
+2023-11-08 18:16:40,063 - INFO - Training dataset/generated_audio/common_voices_prompts_from_conformer_fastspeech2_pwg_ljspeech
+2023-11-08 18:16:40,314 - INFO - Loading data from dataset/generated_audio/common_voices_prompts_from_conformer_fastspeech2_pwg_ljspeech...!
+2023-11-08 18:16:40,395 - INFO - Training rawnet model on 160 audio files.
+2023-11-08 18:28:06,363 - INFO - Loading data...
+2023-11-08 18:28:06,454 - INFO - Loading data from dataset/LJSpeech-1.1/wavs...!
+2023-11-08 18:28:06,454 - INFO - Training dataset/generated_audio/ljspeech_full_band_melgan
+2023-11-08 18:28:06,546 - INFO - Loading data from dataset/generated_audio/ljspeech_full_band_melgan...!
+2023-11-08 18:28:06,629 - INFO - Training rawnet model on 160 audio files.
+2023-11-08 18:28:19,885 - INFO - [0000]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:28:32,871 - INFO - [0001]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:28:45,882 - INFO - [0002]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:28:59,223 - INFO - [0003]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:29:12,576 - INFO - [0004]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:29:25,572 - INFO - [0005]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:29:38,735 - INFO - [0006]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:29:51,928 - INFO - [0007]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:30:05,136 - INFO - [0008]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:30:17,950 - INFO - [0009]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:30:31,751 - INFO - [0010]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:30:45,164 - INFO - [0011]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:30:58,471 - INFO - [0012]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:31:17,339 - INFO - Loading data...
+2023-11-08 18:31:17,475 - INFO - Loading data from dataset/LJSpeech-1.1/wavs...!
+2023-11-08 18:31:17,476 - INFO - Training dataset/generated_audio/ljspeech_full_band_melgan
+2023-11-08 18:31:17,576 - INFO - Loading data from dataset/generated_audio/ljspeech_full_band_melgan...!
+2023-11-08 18:31:17,664 - INFO - Training rawnet model on 160 audio files.
+2023-11-08 18:31:31,002 - INFO - [0000]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:31:44,200 - INFO - [0001]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:31:57,353 - INFO - [0002]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:32:10,513 - INFO - [0003]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:32:23,476 - INFO - [0004]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:32:36,552 - INFO - [0005]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:32:49,615 - INFO - [0006]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:33:02,841 - INFO - [0007]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:33:15,940 - INFO - [0008]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:33:28,989 - INFO - [0009]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:33:29,077 - INFO - Training out-of-distribution models!
+2023-11-08 18:33:29,077 - INFO - Training all but dataset/generated_audio/ljspeech_full_band_melgan
+2023-11-08 18:33:29,151 - INFO - Training rawnet model on 80 audio files.
+2023-11-08 18:33:35,785 - INFO - [0000]: 0.0 - train acc: 100.0 - test_acc: 100.0
+2023-11-08 18:33:42,488 - INFO - [0001]: 0.0 - train acc: 100.0 - test_acc: 100.0
+2023-11-08 18:33:49,052 - INFO - [0002]: 0.0 - train acc: 100.0 - test_acc: 100.0
+2023-11-08 18:33:55,614 - INFO - [0003]: 0.0 - train acc: 100.0 - test_acc: 100.0
+2023-11-08 18:34:02,273 - INFO - [0004]: 0.0 - train acc: 100.0 - test_acc: 100.0
+2023-11-08 18:34:08,859 - INFO - [0005]: 0.0 - train acc: 100.0 - test_acc: 100.0
+2023-11-08 18:34:15,614 - INFO - [0006]: 0.0 - train acc: 100.0 - test_acc: 100.0
+2023-11-08 18:34:22,227 - INFO - [0007]: 0.0 - train acc: 100.0 - test_acc: 100.0
+2023-11-08 18:34:28,834 - INFO - [0008]: 0.0 - train acc: 100.0 - test_acc: 100.0
+2023-11-08 18:34:35,543 - INFO - [0009]: 0.0 - train acc: 100.0 - test_acc: 100.0
+2023-11-08 18:34:35,612 - INFO - Training single fake models done!
+2023-11-08 18:45:14,133 - INFO - Loading data...
+2023-11-08 18:45:14,232 - INFO - Loading data from dataset/LJSpeech-1.1/wavs...!
+2023-11-08 18:45:14,232 - INFO - Training /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_multi_band_melgan
+2023-11-08 18:45:14,335 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_multi_band_melgan...!
+2023-11-08 18:45:14,424 - INFO - Training rawnet model on 160 audio files.
+2023-11-08 18:45:27,556 - INFO - [0000]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:45:40,839 - INFO - [0001]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:45:53,989 - INFO - [0002]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:46:07,183 - INFO - [0003]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:46:20,561 - INFO - [0004]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:46:33,660 - INFO - [0005]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:46:47,071 - INFO - [0006]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:47:00,222 - INFO - [0007]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:47:13,546 - INFO - [0008]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:47:26,688 - INFO - [0009]: 0.6931471824645996 - train acc: 50.0 - test_acc: 50.0
+2023-11-08 18:47:26,786 - INFO - Training /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_full_band_melgan
+2023-11-08 18:47:26,886 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_full_band_melgan...!
+2023-11-08 18:47:26,961 - INFO - Training rawnet model on 160 audio files.
+2023-11-08 18:47:40,173 - INFO - [0000]: 0.6931471824645996 - train acc: 50.78125 - test_acc: 46.875
+2023-11-08 18:47:53,414 - INFO - [0001]: 0.6931471824645996 - train acc: 50.78125 - test_acc: 46.875
+2023-11-08 18:48:06,583 - INFO - [0002]: 0.6931471824645996 - train acc: 50.78125 - test_acc: 46.875
+2023-11-08 18:48:19,532 - INFO - [0003]: 0.6931471824645996 - train acc: 50.78125 - test_acc: 46.875
+2023-11-08 18:48:32,718 - INFO - [0004]: 0.6931471824645996 - train acc: 50.78125 - test_acc: 46.875
+2023-11-08 18:48:45,854 - INFO - [0005]: 0.6931471824645996 - train acc: 50.78125 - test_acc: 46.875
+2023-11-08 18:48:59,059 - INFO - [0006]: 0.6931471824645996 - train acc: 50.78125 - test_acc: 46.875
+2023-11-08 18:49:12,235 - INFO - [0007]: 0.6931471824645996 - train acc: 50.78125 - test_acc: 46.875
+2023-11-08 18:49:25,500 - INFO - [0008]: 0.6931471824645996 - train acc: 50.78125 - test_acc: 46.875
+2023-11-08 18:49:38,654 - INFO - [0009]: 0.6931471824645996 - train acc: 50.78125 - test_acc: 46.875
+2023-11-08 18:49:38,752 - INFO - Training /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_hifiGAN
+2023-11-08 18:49:38,864 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_hifiGAN...!
+2023-11-08 18:49:38,936 - INFO - Training rawnet model on 160 audio files.
+2023-11-08 18:49:52,382 - INFO - [0000]: 0.6931471824645996 - train acc: 47.65625 - test_acc: 59.375
+2023-11-08 18:50:05,440 - INFO - [0001]: 0.6931471824645996 - train acc: 47.65625 - test_acc: 59.375
+2023-11-08 18:50:18,456 - INFO - [0002]: 0.6931471824645996 - train acc: 47.65625 - test_acc: 59.375
+2023-11-08 18:50:31,488 - INFO - [0003]: 0.6931471824645996 - train acc: 47.65625 - test_acc: 59.375
+2023-11-08 18:50:44,586 - INFO - [0004]: 0.6931471824645996 - train acc: 47.65625 - test_acc: 59.375
+2023-11-08 18:50:57,685 - INFO - [0005]: 0.6931471824645996 - train acc: 47.65625 - test_acc: 59.375
+2023-11-08 18:51:10,661 - INFO - [0006]: 0.6931471824645996 - train acc: 47.65625 - test_acc: 59.375
+2023-11-08 18:51:23,695 - INFO - [0007]: 0.6931471824645996 - train acc: 47.65625 - test_acc: 59.375
+2023-11-08 18:51:36,625 - INFO - [0008]: 0.6931471824645996 - train acc: 47.65625 - test_acc: 59.375
+2023-11-08 18:51:49,564 - INFO - [0009]: 0.6931471824645996 - train acc: 47.65625 - test_acc: 59.375
+2023-11-08 18:51:49,660 - INFO - Training /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_parallel_wavegan
+2023-11-08 18:51:49,756 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_parallel_wavegan...!
+2023-11-08 18:51:49,825 - INFO - Training rawnet model on 160 audio files.
+2023-11-08 18:52:02,913 - INFO - [0000]: 0.6931471824645996 - train acc: 51.5625 - test_acc: 43.75
+2023-11-08 18:52:15,818 - INFO - [0001]: 0.6931471824645996 - train acc: 51.5625 - test_acc: 43.75
+2023-11-08 18:52:28,816 - INFO - [0002]: 0.6931471824645996 - train acc: 51.5625 - test_acc: 43.75
+2023-11-08 18:52:41,929 - INFO - [0003]: 0.6931471824645996 - train acc: 51.5625 - test_acc: 43.75
+2023-11-08 18:52:54,954 - INFO - [0004]: 0.6931471824645996 - train acc: 51.5625 - test_acc: 43.75
+2023-11-08 18:53:08,052 - INFO - [0005]: 0.6931471824645996 - train acc: 51.5625 - test_acc: 43.75
+2023-11-08 18:53:21,158 - INFO - [0006]: 0.6931471824645996 - train acc: 51.5625 - test_acc: 43.75
+2023-11-08 18:53:34,200 - INFO - [0007]: 0.6931471824645996 - train acc: 51.5625 - test_acc: 43.75
+2023-11-08 18:53:47,289 - INFO - [0008]: 0.6931471824645996 - train acc: 51.5625 - test_acc: 43.75
+2023-11-08 18:54:00,220 - INFO - [0009]: 0.6931471824645996 - train acc: 51.5625 - test_acc: 43.75
+2023-11-08 18:54:00,320 - INFO - Training /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan
+2023-11-08 18:54:00,418 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan...!
+2023-11-08 18:54:00,488 - INFO - Training rawnet model on 160 audio files.
+2023-11-08 18:54:13,749 - INFO - [0000]: 0.6931471824645996 - train acc: 46.09375 - test_acc: 65.625
+2023-11-08 18:54:26,881 - INFO - [0001]: 0.6931471824645996 - train acc: 46.09375 - test_acc: 65.625
+2023-11-08 18:54:39,871 - INFO - [0002]: 0.6931471824645996 - train acc: 46.09375 - test_acc: 65.625
+2023-11-08 18:54:53,051 - INFO - [0003]: 0.6931471824645996 - train acc: 46.09375 - test_acc: 65.625
+2023-11-08 18:55:06,248 - INFO - [0004]: 0.6931471824645996 - train acc: 46.09375 - test_acc: 65.625
+2023-11-08 18:55:19,560 - INFO - [0005]: 0.6931471824645996 - train acc: 46.09375 - test_acc: 65.625
+2023-11-08 18:55:32,570 - INFO - [0006]: 0.6931471824645996 - train acc: 46.09375 - test_acc: 65.625
+2023-11-08 18:55:45,679 - INFO - [0007]: 0.6931471824645996 - train acc: 46.09375 - test_acc: 65.625
+2023-11-08 18:55:58,924 - INFO - [0008]: 0.6931471824645996 - train acc: 46.09375 - test_acc: 65.625
+2023-11-08 18:56:12,029 - INFO - [0009]: 0.6931471824645996 - train acc: 46.09375 - test_acc: 65.625
+2023-11-08 18:56:12,146 - INFO - Training /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan_large
+2023-11-08 18:56:12,261 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan_large...!
+2023-11-08 18:56:12,331 - INFO - Training rawnet model on 160 audio files.
+2023-11-08 18:56:25,436 - INFO - [0000]: 0.6931471824645996 - train acc: 49.21875 - test_acc: 53.125
+2023-11-08 18:56:38,411 - INFO - [0001]: 0.6931471824645996 - train acc: 49.21875 - test_acc: 53.125
+2023-11-08 18:56:51,650 - INFO - [0002]: 0.6931471824645996 - train acc: 49.21875 - test_acc: 53.125
+2023-11-08 18:57:04,884 - INFO - [0003]: 0.6931471824645996 - train acc: 49.21875 - test_acc: 53.125
+2023-11-08 18:57:17,748 - INFO - [0004]: 0.6931471824645996 - train acc: 49.21875 - test_acc: 53.125
+2023-11-08 18:57:30,953 - INFO - [0005]: 0.6931471824645996 - train acc: 49.21875 - test_acc: 53.125
+2023-11-08 18:57:44,474 - INFO - [0006]: 0.6931471824645996 - train acc: 49.21875 - test_acc: 53.125
+2023-11-08 18:57:58,853 - INFO - [0007]: 0.6931471824645996 - train acc: 49.21875 - test_acc: 53.125
+2023-11-08 18:58:11,934 - INFO - [0008]: 0.6931471824645996 - train acc: 49.21875 - test_acc: 53.125
+2023-11-08 18:58:25,115 - INFO - [0009]: 0.6931471824645996 - train acc: 49.21875 - test_acc: 53.125
+2023-11-08 18:58:25,210 - INFO - Training /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_waveglow
+2023-11-08 18:58:25,305 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_waveglow...!
+2023-11-08 18:58:25,376 - INFO - Training rawnet model on 160 audio files.
+2023-11-08 18:58:38,447 - INFO - [0000]: 0.6931471824645996 - train acc: 46.875 - test_acc: 62.5
+2023-11-08 18:58:52,023 - INFO - [0001]: 0.6931471824645996 - train acc: 46.875 - test_acc: 62.5
+2023-11-08 18:59:05,202 - INFO - [0002]: 0.6931471824645996 - train acc: 46.875 - test_acc: 62.5
+2023-11-08 18:59:18,600 - INFO - [0003]: 0.6931471824645996 - train acc: 46.875 - test_acc: 62.5
+2023-11-08 18:59:31,828 - INFO - [0004]: 0.6931471824645996 - train acc: 46.875 - test_acc: 62.5
+2023-11-08 18:59:44,813 - INFO - [0005]: 0.6931471824645996 - train acc: 46.875 - test_acc: 62.5
+2023-11-08 18:59:57,715 - INFO - [0006]: 0.6931471824645996 - train acc: 46.875 - test_acc: 62.5
+2023-11-08 19:00:10,610 - INFO - [0007]: 0.6931471824645996 - train acc: 46.875 - test_acc: 62.5
+2023-11-08 19:00:23,515 - INFO - [0008]: 0.6931471824645996 - train acc: 46.875 - test_acc: 62.5
+2023-11-08 19:00:36,564 - INFO - [0009]: 0.6931471824645996 - train acc: 46.875 - test_acc: 62.5
+2023-11-08 19:00:36,663 - INFO - Training out-of-distribution models!
+2023-11-08 19:00:36,663 - INFO - Training all but /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_multi_band_melgan
+2023-11-08 19:00:36,763 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_full_band_melgan...!
+2023-11-08 19:00:36,858 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_waveglow...!
+2023-11-08 19:00:36,966 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan_large...!
+2023-11-08 19:00:37,065 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan...!
+2023-11-08 19:00:37,163 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_parallel_wavegan...!
+2023-11-08 19:00:37,273 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_hifiGAN...!
+2023-11-08 19:00:37,346 - INFO - Training rawnet model on 560 audio files.
+2023-11-08 19:01:22,719 - INFO - [0000]: 1.195988382611956 - train acc: 14.508928571428573 - test_acc: 13.392857142857142
+2023-11-08 19:02:08,333 - INFO - [0001]: 1.195988382611956 - train acc: 14.508928571428573 - test_acc: 13.392857142857142
+2023-11-08 19:02:53,960 - INFO - [0002]: 1.1959883996418543 - train acc: 14.508928571428573 - test_acc: 13.392857142857142
+2023-11-08 19:03:39,359 - INFO - [0003]: 1.1959883783544814 - train acc: 14.508928571428573 - test_acc: 13.392857142857142
+2023-11-08 19:04:24,827 - INFO - [0004]: 1.1959883847406931 - train acc: 14.508928571428573 - test_acc: 13.392857142857142
+2023-11-08 19:05:10,250 - INFO - [0005]: 1.195988388998168 - train acc: 14.508928571428573 - test_acc: 13.392857142857142
+2023-11-08 19:05:56,348 - INFO - [0006]: 1.1959883996418543 - train acc: 14.508928571428573 - test_acc: 13.392857142857142
+2023-11-08 19:06:42,262 - INFO - [0007]: 1.1959883868694305 - train acc: 14.508928571428573 - test_acc: 13.392857142857142
+2023-11-08 19:07:27,887 - INFO - [0008]: 1.1959883932556425 - train acc: 14.508928571428573 - test_acc: 13.392857142857142
+2023-11-08 19:08:13,490 - INFO - [0009]: 1.195988388998168 - train acc: 14.508928571428573 - test_acc: 13.392857142857142
+2023-11-08 19:08:13,581 - INFO - Training all but /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_full_band_melgan
+2023-11-08 19:08:13,668 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_waveglow...!
+2023-11-08 19:08:13,755 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_multi_band_melgan...!
+2023-11-08 19:08:13,855 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan_large...!
+2023-11-08 19:08:13,965 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan...!
+2023-11-08 19:08:14,063 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_parallel_wavegan...!
+2023-11-08 19:08:14,161 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_hifiGAN...!
+2023-11-08 19:08:14,234 - INFO - Training rawnet model on 560 audio files.
+2023-11-08 19:08:59,524 - INFO - [0000]: 1.2037243970802851 - train acc: 14.732142857142858 - test_acc: 12.5
+2023-11-08 19:09:45,396 - INFO - [0001]: 1.2037243992090225 - train acc: 14.732142857142858 - test_acc: 12.5
+2023-11-08 19:10:31,458 - INFO - [0002]: 1.2037244119814463 - train acc: 14.732142857142858 - test_acc: 12.5
+2023-11-08 19:11:18,846 - INFO - [0003]: 1.2037243928228105 - train acc: 14.732142857142858 - test_acc: 12.5
+2023-11-08 19:12:06,026 - INFO - [0004]: 1.2037244098527091 - train acc: 14.732142857142858 - test_acc: 12.5
+2023-11-08 19:12:52,909 - INFO - [0005]: 1.2037244055952345 - train acc: 14.732142857142858 - test_acc: 12.5
+2023-11-08 19:13:39,223 - INFO - [0006]: 1.2037244204963957 - train acc: 14.732142857142858 - test_acc: 12.5
+2023-11-08 19:14:24,765 - INFO - [0007]: 1.2037244119814463 - train acc: 14.732142857142858 - test_acc: 12.5
+2023-11-08 19:15:10,471 - INFO - [0008]: 1.2037244098527091 - train acc: 14.732142857142858 - test_acc: 12.5
+2023-11-08 19:15:56,158 - INFO - [0009]: 1.2037243970802851 - train acc: 14.732142857142858 - test_acc: 12.5
+2023-11-08 19:15:56,257 - INFO - Training all but /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_hifiGAN
+2023-11-08 19:15:56,373 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_full_band_melgan...!
+2023-11-08 19:15:56,469 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_waveglow...!
+2023-11-08 19:15:56,567 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan_large...!
+2023-11-08 19:15:56,665 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_multi_band_melgan...!
+2023-11-08 19:15:56,776 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan...!
+2023-11-08 19:15:56,877 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_parallel_wavegan...!
+2023-11-08 19:15:56,948 - INFO - Training rawnet model on 560 audio files.
+2023-11-08 19:16:42,231 - INFO - [0000]: 1.2114604179348265 - train acc: 14.955357142857142 - test_acc: 11.607142857142858
+2023-11-08 19:17:27,942 - INFO - [0001]: 1.211460428578513 - train acc: 14.955357142857142 - test_acc: 11.607142857142858
+2023-11-08 19:18:13,835 - INFO - [0002]: 1.2114604370934623 - train acc: 14.955357142857142 - test_acc: 11.607142857142858
+2023-11-08 19:18:59,454 - INFO - [0003]: 1.211460428578513 - train acc: 14.955357142857142 - test_acc: 11.607142857142858
+2023-11-08 19:19:45,183 - INFO - [0004]: 1.2114604307072503 - train acc: 14.955357142857142 - test_acc: 11.607142857142858
+2023-11-08 19:20:30,883 - INFO - [0005]: 1.2114604307072503 - train acc: 14.955357142857142 - test_acc: 11.607142857142858
+2023-11-08 19:21:16,443 - INFO - [0006]: 1.2114604307072503 - train acc: 14.955357142857142 - test_acc: 11.607142857142858
+2023-11-08 19:22:02,601 - INFO - [0007]: 1.211460415806089 - train acc: 14.955357142857142 - test_acc: 11.607142857142858
+2023-11-08 19:22:48,081 - INFO - [0008]: 1.211460422192301 - train acc: 14.955357142857142 - test_acc: 11.607142857142858
+2023-11-08 19:23:33,456 - INFO - [0009]: 1.211460428578513 - train acc: 14.955357142857142 - test_acc: 11.607142857142858
+2023-11-08 19:23:33,555 - INFO - Training all but /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_parallel_wavegan
+2023-11-08 19:23:33,653 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_full_band_melgan...!
+2023-11-08 19:23:33,749 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_waveglow...!
+2023-11-08 19:23:33,856 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan_large...!
+2023-11-08 19:23:33,956 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_multi_band_melgan...!
+2023-11-08 19:23:34,054 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan...!
+2023-11-08 19:23:34,165 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_hifiGAN...!
+2023-11-08 19:23:34,234 - INFO - Training rawnet model on 560 audio files.
+2023-11-08 19:24:19,882 - INFO - [0000]: 1.2269324575151717 - train acc: 15.401785714285715 - test_acc: 9.821428571428571
+2023-11-08 19:25:05,641 - INFO - [0001]: 1.226932440485273 - train acc: 15.401785714285715 - test_acc: 9.821428571428571
+2023-11-08 19:25:51,856 - INFO - [0002]: 1.226932453257697 - train acc: 15.401785714285715 - test_acc: 9.821428571428571
+2023-11-08 19:26:37,666 - INFO - [0003]: 1.2269324660301208 - train acc: 15.401785714285715 - test_acc: 9.821428571428571
+2023-11-08 19:27:23,782 - INFO - [0004]: 1.226932446871485 - train acc: 15.401785714285715 - test_acc: 9.821428571428571
+2023-11-08 19:28:09,350 - INFO - [0005]: 1.2269324617726463 - train acc: 15.401785714285715 - test_acc: 9.821428571428571
+2023-11-08 19:28:54,634 - INFO - [0006]: 1.2269324511289597 - train acc: 15.401785714285715 - test_acc: 9.821428571428571
+2023-11-08 19:29:40,507 - INFO - [0007]: 1.2269324639013834 - train acc: 15.401785714285715 - test_acc: 9.821428571428571
+2023-11-08 19:30:25,897 - INFO - [0008]: 1.2269324511289597 - train acc: 15.401785714285715 - test_acc: 9.821428571428571
+2023-11-08 19:31:11,535 - INFO - [0009]: 1.2269324639013834 - train acc: 15.401785714285715 - test_acc: 9.821428571428571
+2023-11-08 19:31:11,634 - INFO - Training all but /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan
+2023-11-08 19:31:11,730 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_full_band_melgan...!
+2023-11-08 19:31:11,824 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_waveglow...!
+2023-11-08 19:31:11,918 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan_large...!
+2023-11-08 19:31:12,022 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_multi_band_melgan...!
+2023-11-08 19:31:12,117 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_parallel_wavegan...!
+2023-11-08 19:31:12,211 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_hifiGAN...!
+2023-11-08 19:31:12,281 - INFO - Training rawnet model on 560 audio files.
+2023-11-08 19:31:58,130 - INFO - [0000]: 1.1495722702571325 - train acc: 13.169642857142858 - test_acc: 18.75
+2023-11-08 19:32:44,122 - INFO - [0001]: 1.1495722766433443 - train acc: 13.169642857142858 - test_acc: 18.75
+2023-11-08 19:33:30,809 - INFO - [0002]: 1.1495722702571325 - train acc: 13.169642857142858 - test_acc: 18.75
+2023-11-08 19:34:17,189 - INFO - [0003]: 1.1495722766433443 - train acc: 13.169642857142858 - test_acc: 18.75
+2023-11-08 19:35:02,935 - INFO - [0004]: 1.1495722659996577 - train acc: 13.169642857142858 - test_acc: 18.75
+2023-11-08 19:35:48,329 - INFO - [0005]: 1.1495722809008189 - train acc: 13.169642857142858 - test_acc: 18.75
+2023-11-08 19:36:34,105 - INFO - [0006]: 1.1495722723858697 - train acc: 13.169642857142858 - test_acc: 18.75
+2023-11-08 19:37:19,683 - INFO - [0007]: 1.1495722702571325 - train acc: 13.169642857142858 - test_acc: 18.75
+2023-11-08 19:38:05,737 - INFO - [0008]: 1.149572268128395 - train acc: 13.169642857142858 - test_acc: 18.75
+2023-11-08 19:38:51,458 - INFO - [0009]: 1.1495722809008189 - train acc: 13.169642857142858 - test_acc: 18.75
+2023-11-08 19:38:51,555 - INFO - Training all but /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan_large
+2023-11-08 19:38:51,668 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_full_band_melgan...!
+2023-11-08 19:38:51,768 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_waveglow...!
+2023-11-08 19:38:51,869 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_multi_band_melgan...!
+2023-11-08 19:38:51,971 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan...!
+2023-11-08 19:38:52,081 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_parallel_wavegan...!
+2023-11-08 19:38:52,184 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_hifiGAN...!
+2023-11-08 19:38:52,257 - INFO - Training rawnet model on 560 audio files.
+2023-11-08 19:39:38,160 - INFO - [0000]: 1.1959883911269051 - train acc: 14.508928571428573 - test_acc: 13.392857142857142
+2023-11-08 19:40:23,837 - INFO - [0001]: 1.1959883719682693 - train acc: 14.508928571428573 - test_acc: 13.392857142857142
+2023-11-08 19:41:09,074 - INFO - [0002]: 1.1959883911269051 - train acc: 14.508928571428573 - test_acc: 13.392857142857142
+2023-11-08 19:41:55,108 - INFO - [0003]: 1.1959884060280663 - train acc: 14.508928571428573 - test_acc: 13.392857142857142
+2023-11-08 19:42:41,101 - INFO - [0004]: 1.1959883975131171 - train acc: 14.508928571428573 - test_acc: 13.392857142857142
+2023-11-08 19:43:26,934 - INFO - [0005]: 1.195988376225744 - train acc: 14.508928571428573 - test_acc: 13.392857142857142
+2023-11-08 19:44:12,466 - INFO - [0006]: 1.195988369839532 - train acc: 14.508928571428573 - test_acc: 13.392857142857142
+2023-11-08 19:44:58,732 - INFO - [0007]: 1.1959883868694305 - train acc: 14.508928571428573 - test_acc: 13.392857142857142
+2023-11-08 19:45:44,639 - INFO - [0008]: 1.1959883911269051 - train acc: 14.508928571428573 - test_acc: 13.392857142857142
+2023-11-08 19:46:30,543 - INFO - [0009]: 1.195988382611956 - train acc: 14.508928571428573 - test_acc: 13.392857142857142
+2023-11-08 19:46:30,640 - INFO - Training all but /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_waveglow
+2023-11-08 19:46:30,737 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_full_band_melgan...!
+2023-11-08 19:46:30,845 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_multi_band_melgan...!
+2023-11-08 19:46:30,941 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan_large...!
+2023-11-08 19:46:31,038 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_melgan...!
+2023-11-08 19:46:31,136 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_parallel_wavegan...!
+2023-11-08 19:46:31,242 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_hifiGAN...!
+2023-11-08 19:46:31,309 - INFO - Training rawnet model on 560 audio files.
+2023-11-08 19:47:16,961 - INFO - [0000]: 1.1495722830295563 - train acc: 13.169642857142858 - test_acc: 18.75
+2023-11-08 19:48:02,681 - INFO - [0001]: 1.1495722787720817 - train acc: 13.169642857142858 - test_acc: 18.75
+2023-11-08 19:48:48,381 - INFO - [0002]: 1.1495722872870309 - train acc: 13.169642857142858 - test_acc: 18.75
+2023-11-08 19:49:33,946 - INFO - [0003]: 1.149572274514607 - train acc: 13.169642857142858 - test_acc: 18.75
+2023-11-08 19:50:19,913 - INFO - [0004]: 1.1495722723858697 - train acc: 13.169642857142858 - test_acc: 18.75
+2023-11-08 19:51:05,646 - INFO - [0005]: 1.1495722936732429 - train acc: 13.169642857142858 - test_acc: 18.75
+2023-11-08 19:51:51,393 - INFO - [0006]: 1.1495722830295563 - train acc: 13.169642857142858 - test_acc: 18.75
+2023-11-08 19:52:37,312 - INFO - [0007]: 1.1495722809008189 - train acc: 13.169642857142858 - test_acc: 18.75
+2023-11-08 19:53:23,236 - INFO - [0008]: 1.1495722872870309 - train acc: 13.169642857142858 - test_acc: 18.75
+2023-11-08 19:54:10,330 - INFO - [0009]: 1.1495722851582937 - train acc: 13.169642857142858 - test_acc: 18.75
+2023-11-08 19:54:10,419 - INFO - Training single fake models done!
+2023-11-08 22:02:00,258 - INFO - Loading data...
+2023-11-08 22:02:00,356 - INFO - Loading data from dataset/LJSpeech-1.1/wavs...!
+2023-11-08 22:02:00,356 - INFO - Training /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_multi_band_melgan
+2023-11-08 22:02:00,452 - INFO - Loading data from /home/g9/ahmed/WaveFake/dataset/generated_audio/ljspeech_multi_band_melgan...!
+2023-11-08 22:02:00,534 - INFO - Training rawnet model on 16 audio files.
