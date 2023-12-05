@@ -57,7 +57,7 @@ optional arguments:
 
 **Example**
 
-To train all EM-GMMs use:
+To train RawNet run the following:
 
 `python train_models.py /dataset/LJSpeech-1.1/wavs /dataset/generated_audio -b 32 --raw_net -a 700 --epochs 20 `
 
@@ -92,35 +92,10 @@ optional arguments:
 
 **Example**
 
-` python evaluate_models.py /data/LJSpeech-1.1/wavs /data/generated_audio trained_models/lfcc/em`
+` python evaluate_models.py /dataset/LJSpeech-1.1/wavs /dataset/generated_audio trained_models/mfcc/rawnet`
 
 Make sure to move the out-of-distribution models to a seperate directory first!
 
-## Attribution
-
-We provide a script to attribute the GMM models:
-```
-python attribute.py -h
-
-usage: attribute.py [-h] [--clusters CLUSTERS] [--steps STEPS] [--blur] FILE REAL_MODEL FAKE_MODEL
-
-positional arguments:
-  FILE                  Audio sample to attribute.
-  REAL_MODEL            Real model to attribute.
-  FAKE_MODEL            Fake Model to attribute.
-
-optional arguments:
-  -h, --help            show this help message and exit
-  --clusters CLUSTERS, -k CLUSTERS
-                        The amount of clusters to learn (default: 128).
-  --steps STEPS, -m STEPS
-                        Amount of steps for integrated gradients.
-  --blur, -b            Compute BlurIG instead.
-```
-
-**Example**
-
-`python attribute.py /data/LJSpeech-1.1/wavs/LJ008-0217.wav  path/to/real/model.pth path/to/fake/model.pth`
 
 # BibTeX
 
