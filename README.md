@@ -1,62 +1,25 @@
-# WaveFake: A Data Set to Facilitate Audio DeepFake Detection
+# fakeDetect: an enhanced version of the RawNet model to detect deepfake audios.
 
-![logo](media/header.png)
-
-This is the code repository for our NeurIPS 2021 (Track on Datasets and Benchmarks) [paper](https://arxiv.org/abs/2111.02813) WaveFake.
-
-<p>
-<img align="right" width="350"  src="media/audiofant.png"> 
-</p>
-
->Deep generative modeling has the potential to cause significant harm to society.
->Recognizing this threat, a magnitude of research into detecting so-called "Deepfakes" has emerged.
->This research most often focuses on the image domain, while studies exploring generated audio signals have - so far - been neglected.
->In this paper, we aim to narrow this gap.
->We present a novel data set, for which we collected ten sample sets from six different network architectures, spanning two languages.
->We analyze the frequency statistics comprehensively, discovering subtle differences between the architectures, specifically among the higher frequencies.
->Additionally, to facilitate further development of detection methods, we implemented three different classifiers adopted from the signal processing community to give practitioners a baseline to compare against.
->In a first evaluation, we already discovered significant trade-offs between the different approaches.
->Neural network-based approaches performed better on average, but more traditional models proved to be more robust.
+>Statistics show that the amount of DeepFake cases has doubled in North America from 2022 until the first quarter of 2023, while printed forgeries have decreased significantly (Sumsub, 2023). Accordingly, we assume this happens as well in other >countries due to the popularity of deepfake tools since last year when ChatGPT became popular. Statistics show that the amount of DeepFake cases has doubled in North America from 2022 until the first quarter of 2023, while printed forgeries have >decreased significantly (Sumsub, 2023). Accordingly, we assume this happens as well in other countries due to the popularity of deepfake tools since last year when ChatGPT became popular.
+>In this project we are building on the work we found in the literature review to improve the algorithms that can detect Deepfake audio. Most of these audios are attended to affect people’s opinions if not stelling their money. 
 
 # Dataset & Pre-trained Models
 
-You can find our dataset on [zenodo](https://zenodo.org/record/5642694) and we also provide [pre-trained models](https://ruhr-uni-bochum.sciebo.de/s/Aqw3PKXMZMbWBPE).
+You can find the wavefake dataset on [zenodo](https://zenodo.org/record/5642694) or  [kaggle](https://www.kaggle.com/datasets/andreadiubaldo/wavefake-test).
+Orignal RawNet model [here](https://github.com/asvspoof-challenge/2021/tree/main/LA/Baseline-RawNet2) 
 
 ## Setup
+We use Cuda so run the following after installing it
+```
+conda create myenv python=3.8
 
+conda activate myenv
+```
 You can install all needed dependencies by running:
 
 ```
 pip install -r requirements.txt
 ```
-
-#### RawNet2 Model
-For consistency, we use the RawNet2 model provided by the ASVSpoof 2021 challenge. 
-Please download the model specifications [here](https://github.com/asvspoof-challenge/2021/tree/main/LA/Baseline-RawNet2) and place it under `dfadetect/models` as `raw_net2.py`.
-
-## Statistics & Plots
-
-To recreate the plots/statistics of the paper, use:
-
-```
-python statistics.py -h
-
-usage: statistics.py [-h] [--amount AMOUNT] [--no-stats] [DATASETS ...]
-
-positional arguments:
-  DATASETS              Path to datasets. The first entry is assumed to be the referrence one. Specified as follows <path,name>
-
-optional arguments:
-  -h, --help            show this help message and exit
-  --amount AMOUNT, -a AMOUNT
-                        Amount of files to concider.
-  --no-stats, -s        Do not compute stats, only plots.
-```
-
-**Example**
-
-`python statistics.py /path/to/reference/data,ReferenceDataName /path/to/generated/data,GeneratedDataName  -a 10000`
-
 
 ## Training models
 
@@ -96,13 +59,13 @@ optional arguments:
 
 To train all EM-GMMs use:
 
-`python train_models.py /data/LJSpeech-1.1/wavs /data/generated_audio -k 128 -v --use_em --epochs 100`
+`python train_models.py /dataset/LJSpeech-1.1/wavs /dataset/generated_audio -b 32 --raw_net -a 700 --epochs 20 `
 
 
 
 ## Evaluation
 
-For evaluation you can use the evaluate_models script:
+For evaluation, you can use the evaluate_models script:
 
 ```
 python evaluate_models.p -h
